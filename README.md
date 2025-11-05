@@ -2,7 +2,7 @@
 
 [[中文]](README_zhCN.md)
 
-`JArgsParser` is a `head-only` arguments parser for `C++11`. You can use it easily by including `interface/jargs_parser_api.hpp` to your project.
+`JArgsParser` is a `head-only` arguments parser for `C++11`, by [Zhengqiao Wang](https://github.com/ZhengqiaoWang). You can use it easily by including `interface/jargs_parser_api.hpp` to your project.
 
 `JArgsParser` support multi kinds of arguments:
 
@@ -36,6 +36,19 @@ Here's the example:
 **array input**
 
 ![array input](assets/allow_array_input.png)
+
+
+## Installation
+
+Run:
+```bash
+$ npm i jargsparser.cxx
+```
+
+And then include `jargs_parser_api.hpp` as follows:
+```c++
+#include "node_modules/jargsparser.cxx/interface/jargs_parser_api.hpp"
+```
 
 
 ## QuickStart
@@ -136,3 +149,10 @@ Or, may be you can join us.
 ## Forkers
 
 [![Forkers repo roster for @ZhengqiaoWang/JArgsParser](https://reporoster.com/forks/ZhengqiaoWang/JArgsParser)](https://github.com/ZhengqiaoWang/JArgsParser/network/members)
+
+<br>
+<br>
+
+
+[![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/jargsparser.cxx)

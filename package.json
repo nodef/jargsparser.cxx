@@ -1,0 +1,15 @@
+{
+  "name": "jargsparser.cxx",
+  "version": "1.0.2",
+  "description": "A head-only arguments parser(argsparser) c++11 lib; Zhengqiao Wang (2022).",
+  "keywords": ["c++", "library", "argsparser", "command line", "header only"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/jargsparser.cxx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/jargsparser.cxx/issues"
+  },
+  "homepage": "https://github.com/nodef/jargsparser.cxx#readme"
+}
